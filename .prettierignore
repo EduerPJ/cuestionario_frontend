@@ -1,0 +1,11 @@
+.gitignore
+next.config.js
+out/
+public/
+.prettierrc
+.prettierignore
+node_modules/
+coverage/
+.next
+.eslintrc.json
+next-env.d.ts
